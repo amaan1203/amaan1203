@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Siddiqui</h1>
-<h3 align="center">As a sophomore at IIT (BHU), Varanasi, I dived into Web development and competitive programming, driven by my genuine love of bridging the gap between creativity and technology. Excited to roll up my sleeves, work hard, and make open source contributions!</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan1203&label=Profile%20views&color=0e75b6&style=flat" alt="amaan1203" /> </p>
 
