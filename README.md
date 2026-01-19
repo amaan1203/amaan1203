@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan1203&label=Profile%20views&color=0e75b6&style=flat" alt="amaan1203" /> </p>
 
-- 🌱 I’m currently learning **Express and backend Development**
-
 - 📫 How to reach me **amaan.siddiqui.cd.ece22@itbhu.ac.in**
 
 <h3 align="left">Connect with me:</h3>
